@@ -1,0 +1,2 @@
+# vsCodeDefault
+Default para VSCode
